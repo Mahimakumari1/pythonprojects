@@ -1,0 +1,10 @@
+n1=int(input("enter the first number: "))
+n2=int(input("enter the second number: "))
+n3=int(input("enter the third number: "))
+n4=int(input("enter the fourth number: "))
+n5=int(input("enter the fifth number: "))
+n6=int(input("enter the sixth number: "))
+n7=int(input("enter the seventh number: "))
+n8=int(input("enter the eighth number: "))
+a={n1, n2, n3, n4, n5, n6, n7, n8}
+print(a)
